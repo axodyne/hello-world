@@ -14,3 +14,8 @@
 
 a. Now Axodyne decides to add a new feature and creates a feature branch for the work. This is the first commit after creating the feature branch.
 
+b. The feature branch alows axodyne to work on the feature without affecting the main branch of the repo.
+
+c. At any time, axodyne could switch back to ```main```. to use the original repository. The only proviso is that all the work on the feature branch is committed before switching branches.
+
+
