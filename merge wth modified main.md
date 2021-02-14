@@ -16,3 +16,6 @@ Even if feature or topicbranches are involved, this remain simple so long as the
 
 6. Thus, axodyne plought on in ```main``` without any worries. After a while, it  comes time to bring in the topic and merge it with main. At that time, the recent change in ```main``` is committed and she is ready for the merge. Since the ```main``` branch is the one that ir currently active, it should be safe to simply commit this change and then run ```git merge topic```.
 
+7. When the ```topic``` branch is merged, git cannot simply fast forward the changes on top of the existing ```main``` branch because ```main``` has changed since ```topic``` was created. Instead, a merge commit is created. It should be visible in the histry immediately before the commit for this update.
+
+
