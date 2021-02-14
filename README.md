@@ -22,5 +22,8 @@ d. When axodyne is happy with the state of the new feature, it can be joined bac
 
 e. there are a couple of ways to join the work together and incorporate the new feature. The one used for this feature is a ***merge***
 
-6. todo the nerge, azodyne makes sure all feaure changes are committed and then switches to the ```main``` branch with ```git checkout main```. Next, she will use the command ```git merge feature``` and the changes in feature will incorporated into the ```main``` branch. Assume for now there are no conflicts.
+6. To do the merge, azodyne makes sure all feaure changes are committed and then switches to the ```main``` branch with ```git checkout main```. Next, she will use the command ```git merge feature``` and the changes in feature will incorporated into the ```main``` branch. Assume for now there are no conflicts.
 
+7. Once the feature is finished with, the feature branch can be deleted.
+
+8. The command for this is ```git branch -d feature```
