@@ -18,6 +18,6 @@ b. The feature branch allows axodyne to work on the feature without affecting th
 
 c. At any time, axodyne could switch back to ```main```. to use the original repository. The only proviso is that all the work on the feature branch is committed before switching branches.
 
-d. When axodyne is happy with the state of the new feature, it can be joined back with the main branch. It is a good idea to do a bit of a tidy before then to make sure everything is as it chould be.
+d. When axodyne is happy with the state of the new feature, it can be joined back with the main branch. It is a good idea to do a bit of a tidy before then to make sure everything is as it should be.
 
-
+e. there are a couple of ways to join the work together and incorporate the new feature. The one used for this feature is a ***merge***
