@@ -14,4 +14,5 @@ Even if feature or topicbranches are involved, this remain simple so long as the
 
 5. These changes are in a different document to those made in the ```topic``` branch and so there are unlikely to be any conflicts.
 
+6. Thus, axodyne plought on in ```main``` without any worries. After a while, it  comes time to bring in the topic and merge it with main. At that time, the recent change in ```main``` is committed and she is ready for the merge. Since the ```main``` branch is the one that ir currently active, it should be safe to simply commit this change and then run ```git merge topic```.
 
