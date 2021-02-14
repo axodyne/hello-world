@@ -10,4 +10,6 @@ Even if feature or topicbranches are involved, this remain simple so long as the
 
 3. She creates a new ```topic``` branch immediately after committing this change.
 
+4. Having worked a little on the topic-one document, axodyne returnsat this point tomake some changes in the ```main``` branch.
+
 
