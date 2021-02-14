@@ -20,4 +20,4 @@ Even if feature or topicbranches are involved, this remain simple so long as the
 
 8. The default message associated with the merge commit will be pretty self-explanatory and will say something like ```Merge branch 'topic' into main```.
 
-
+9. Once the topic has been successfully merged, its branch is typically not needed any more and can be deleted (```git branch -d topic```). After that, it is time to push the ```main`` branch up to github
