@@ -1,8 +1,8 @@
 # Basic merging with topics and features
 
-For the solo developer, it can make sense to have a single branch called ```master``` or ```main``` and just commit work to that. Thi si snot terribly safe and can cause trouble when some new feature is added. It would be nice to be able to work on that feature safe in the knowledge that the existing work is safe from these developmental activities.
+For the solo developer, it can make sense to have a single branch called ```master``` or ```main``` and just commit work to that. This is not terribly safe and can cause trouble when some new feature is added. It would be nice to be able to work on that feature safe in the knowledge that the existing work is secure from these developmental activities.
 
-Git lets (encourages) you create branches whenever needed specifically for this kind of purpose. You create a branch, do work there and then bring the changes into your main branch when they are ready. Or you just throw the branch away if it does not pan out. Regardless, you can switch back to the original ```main``` branch at any time and return to development work later.
+Git lets (encourages) you create branches whenever needed - specifically for this kind of purpose. You create a branch, do work there and then bring the changes into your main branch when they are ready. Or you just throw the branch away if it does not pan out. Regardless, you can switch back to the original ```main``` branch at any time and return to development work later.
 
 Suppose axodyne has a repo:
 
