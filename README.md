@@ -11,3 +11,6 @@
 5. The result is a nice, simple linear sequence of commits that everyone can follow.
 
 ## Feature by Axodyne
+
+a. Now Axodyne decides to add a new feature and creates a feature branch for the work. This is the first commit after creating the feature branch.
+
