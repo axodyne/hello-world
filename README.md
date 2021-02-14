@@ -27,3 +27,6 @@ e. there are a couple of ways to join the work together and incorporate the new 
 7. Once the feature is finished with, the feature branch can be deleted.
 
 8. The command for this is ```git branch -d feature```
+
+9. Looking at the record of commits in a simple case like this will probably show little or no evidence of the existence of the feature branch. The reason frthis is that the ```main``` branch did not change while ```feature``` was being worked on so the merge was just a question of adding the changes to the list and moving up the HEAd. This is a fast-forward merge.
+
