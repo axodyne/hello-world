@@ -8,4 +8,6 @@ Even if feature or topicbranches are involved, this remain simple so long as the
 
 2. Slowly, it dawns on our maintainer that a new topic is needed.
 
+3. She creates a new ```topic``` branch immediately after committing this change.
+
 
