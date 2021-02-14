@@ -18,4 +18,6 @@ Even if feature or topicbranches are involved, this remain simple so long as the
 
 7. When the ```topic``` branch is merged, git cannot simply fast forward the changes on top of the existing ```main``` branch because ```main``` has changed since ```topic``` was created. Instead, a merge commit is created. It should be visible in the histry immediately before the commit for this update.
 
+8. The default message associated with the merge commit will be pretty self-explanatory and will say something like ```Merge branch 'topic' into main```.
+
 
