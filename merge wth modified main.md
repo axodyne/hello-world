@@ -12,4 +12,6 @@ Even if feature or topicbranches are involved, this remain simple so long as the
 
 4. Having worked a little on the topic-one document, axodyne returnsat this point tomake some changes in the ```main``` branch.
 
+5. These changes are in a different document to those made in the ```topic``` branch and so there are unlikely to be any conflicts.
+
 
