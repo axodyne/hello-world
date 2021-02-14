@@ -21,3 +21,6 @@ c. At any time, axodyne could switch back to ```main```. to use the original rep
 d. When axodyne is happy with the state of the new feature, it can be joined back with the main branch. It is a good idea to do a bit of a tidy before then to make sure everything is as it should be.
 
 e. there are a couple of ways to join the work together and incorporate the new feature. The one used for this feature is a ***merge***
+
+6. todo the nerge, azodyne makes sure all feaure changes are committed and then switches to the ```main``` branch with ```git checkout main```. Next, she will use the command ```git merge feature``` and the changes in feature will incorporated into the ```main``` branch. Assume for now there are no conflicts.
+
