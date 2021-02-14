@@ -30,3 +30,4 @@ e. there are a couple of ways to join the work together and incorporate the new 
 
 9. Looking at the record of commits in a simple case like this will probably show little or no evidence of the existence of the feature branch. The reason frthis is that the ```main``` branch did not change while ```feature``` was being worked on so the merge was just a question of adding the changes to the list and moving up the HEAd. This is a fast-forward merge.
 
+10. Now that the changes are all checked and stable, and the feature is incorporated into ```main```, the repo can be push back up to github for publication or release. Some people like to retain all the commit messages, others like to squash them down for a more compact look. This example will keep al the messages for clarity. Whatever you choose, you cannot easily change your mind after pushing to github.
