@@ -25,3 +25,9 @@ Suppose axodyne, the repo owner/maintainer, is working away on ```main```:
 8. The default message associated with the merge commit will be pretty self-explanatory and will say something like ```Merge branch 'topic' into main```.
 
 9. Once the topic has been successfully merged, its branch is typically not needed any more and can be deleted (```git branch -d topic```). After that, if everything is OK, it is probably time to push the ```main`` branch up to github
+
+After the merge of the topic, a graph of the commits might look like this:
+
+
+![Merging aTopic when Main  has been modified](images/merge-with-modified-main.png "Merge With Modified Main")
+
