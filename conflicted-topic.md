@@ -5,10 +5,10 @@
 2. More content is added in ```main```
 
 ```
-     There was an Old Man in a boat,
-     Who said, 'I'm afloat, I'm afloat!'
-     When they said, 'No! you ain't!'
-     He was ready to faint,
-     That unhappy Old Man in a boat.
+    There was an Old Man in a tree,
+    Who was horribly bored by a Bee;
+    When they said, 'Does it buzz?'
+    He replied, 'Yes, it does!'
+    'It's a regular brute of a Bee!'
 ```
 

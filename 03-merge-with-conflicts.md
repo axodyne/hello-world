@@ -7,3 +7,5 @@ There may come a time when changes are made to files in both ```main``` and a wo
 After some content is added to the new file, axodyne creates a branch to continue work with it.
 
 Now the ```conflicted-topic``` branch has been created and some work is done in it and committed.
+
+A change in the ```conflicted-topic``` branch creates a change that will later be a problem.
