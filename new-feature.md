@@ -10,4 +10,4 @@ Or perhaps the team has an agreed-upon leader or reviewer.
 
 Or maybe, as a developer, you just want some help with something.
 
-
+Pull requests can be a good way of documenting changes on github because each one is catalogued in the pull requests tab. That allows a series of changes and commits to share a single documentation point.
