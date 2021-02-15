@@ -21,3 +21,9 @@ The conflicts are shown like this:
 and axodyne must try to resolve them. The section marked 'HEAD' is from the current branch, the other section comes from the branch we are trying to merge. Remove the markers and edit the files to resolve the conflicts.
 
 Once the conflicts have been resolved, the files can be re-staged and the merge commit completed.
+
+Once merged, there will be no indication that there was a problem and the merge will look like any other:
+
+![Log after a merge with conficts](images/conflicts-merged.png)
+
+Tidy up by deleting the working branch if it is finished with and then puch to github for a permanent update.
