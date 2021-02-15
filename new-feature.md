@@ -8,4 +8,6 @@ Any new feature may to be errors and so it should be cheked  by the rest of the 
 
 Or perhaps the team has an agreed-upon leader or reviewer.
 
+Or maybe, as a developer, you just want some help with something.
+
 
