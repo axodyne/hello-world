@@ -9,3 +9,6 @@ After some content is added to the new file, axodyne creates a branch to continu
 
 
 Back in main, the ```conflicted-topic.md``` gets modified as well.
+
+Now we try to merge the working branch back into ```main```
+
