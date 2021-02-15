@@ -34,5 +34,5 @@ Here you will see the commits that form part of the ```new-feature``` branch and
 
 Before merging this feature, note that the author can add new commits to te brach and push them up at any point before they are merged so changes or additions are possible and encouraged.
 
-When all is ready, merge the request.
+When all is ready, merge the request. You will be asked for confirmation and then asked if you want to delete the branch. Do that because it is now finished with.
 
